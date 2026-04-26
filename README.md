@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @stormscript
-- 🌱 I’m currently learning _web development_
+- 🌱 I’m currently learning hacking
